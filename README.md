@@ -17,9 +17,9 @@ A modern and elegant restaurant website built with **HTML, Tailwind CSS, and Jav
 - **Tailwind CSS** – Utility-first CSS framework for styling.  
 - **JavaScript** – Smooth scrolling, mobile menu toggle, and interactive elements.  
 
-
 ## 🌍 Live Demo
-You can deploy the project using **GitHub Pages** or **Netlify** for a live preview.
+Check out the live demo here: [Modern Restaurant Website](https://modern-restaurant-template.vercel.app/)
+
 
 ---
 💖 **Developed with passion for fine dining enthusiasts!** 🍷✨
